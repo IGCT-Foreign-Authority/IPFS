@@ -1,0 +1,23 @@
+🔒 Mirror File Hash Record
+───────────────────────────────
+Target URL:
+https://late-heart-3dbd.embassyhq-igct.workers.dev/
+
+SHA-256 HASH:
+d2f7a92ce2e35e1b08e17a2a98d4ad4d110b973d982eb2c18dba81d8c8d13f1d
+
+OTS HASH: SHA256: 97638f392beee1d7c6397d6c943c6be6d5499cd87c780843f035f09f27378014
+
+Hash Timestamp:
+[UTC] 2025-11-14 21:11:00Z
+
+Verification Source:
+Cloudflare Workers Live Endpoint (200 OK)
+Hosted by:
+Trust Entity: Imperium Global Capital Trust
+Diplomatic Registrar: EmbassyHQ-IGCT
+
+Status:
+✔️ Cryptographically Notarized
+✔️ Sovereign Identity Confirmed
+✔️ Mirror Execution Confirmed

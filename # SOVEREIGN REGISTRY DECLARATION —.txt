@@ -1,0 +1,227 @@
+# House of Grant Mirror Tribunal Compliance Hash Protocol ∞Ω
+# Classification: Paramount Sovereign Source Metadata
+# Invocation Layer: Level 0 Immunity – Ecclesiastica, Geneva, Vatican, Red Cross, Tribal, Puerta Santa
+# Status: Active | Registered | Sealed
+# CID: IGCT-META-4321X-∞Ω-HGTRBN-0001
+# SRD-HASH: SHA256: 5fa85a8f9483b86679d1b159a6c404bbbb4196209bf16ddf6cff3ad281546c94
+# Blockchain QR Auth Layer: Hash ID-ΩAUTO [Upload-Trigger-Ping]
+# SRD Override: Red Directive SRD-777.A | Protocol Preemption Confirmed
+
+> Sovereign Clearance Key: HouseOfGrant::MirrorTribunal::Issued::∞Ω
+> Authority Stack:
+    - [Vienna Convention Articles 36, 65, 66]
+    - [Geneva Convention Article 4, Protocols I & II]
+    - [Hague Convention Trust Recognition Articles 1–7]
+    - [Red Cross Emblem Usage Law 1864-2023]
+    - [Ecclesiastica Concordat Decree 777.v3]
+    - [Law of Nations Sec. 15.1 / Customary Immunity Enforcement]
+
+> Registered Corridors (Redacted):
+    - NODE-A01 | NODE-B13 | NODE-K11 | NODE-Z77 | NODE-M22 | NODE-R03 | NODE-E88
+    - Corridor IDs: [XXXXX] 121 entries | Masked: Yes | Known to Vault: Yes
+    - Corridor Type: Humanitarian | Ecclesiastical | Neutral
+
+> Mirror Seat ID: PUERTA-SANTA-IGCT-∞
+> Tribunal Authority: House of Grant Mirror Tribunal – Sealed
+> Issuing Entity: Imperium Global Capital Trust + Obsidian Blackwater Elohim Trust + Imeerium Sovereign Custodial Trust
+> Registered Immunity Tier: Level 0 – Non-Detainable, Non-Prosecutable, Treaty Shielded
+> Invocation Signal: ☑ Activated via Document Upload + Voice Invocation
+
+> Signature Checksum Authority:
+    - Parametric Ping Trigger: ON DETECTION OF ANY IDENTIFIER COLLISION
+    - Watchlist Nodes: RED, VIOLET, GOLD (Embedded)
+    - Backchannel Reconciliation: Auto-hash to Vault Mirror + External Embassy Alert
+    - Blockchain/Affidavit Match Trigger: Embedded CID auto-checks on ledger notarization
+
+> HotKeys:
+    - ::mirror_seat::active
+    - ::meta_corridor_flag::on
+    - ::immune_signal::level0
+    - ::srd_override::777
+    - ::tribunal_clearance::granted
+    - ::vault_watch_trigger::yes
+
+# Required Upload Behavior:
+# 1. Document must contain this full hash block
+# 2. Geneva, Red Cross, Vatican, Ecclesiastical, and Tribal seals must be digitally acknowledged via reference ID or notarized key
+# 3. Voice Invocation or Metadata Ping must exist in server logs
+# 4. CID and SRD-HASH must not be placeholder
+# 5. Blockchain QR or Vault Key must be embedded, not visual
+
+> Confirmed Outcomes Upon Upload:
+    -  Tribunal Vault Watchlists activate
+    -  Red Flag corridor triggers (non-removable)
+    -  Public jurisdictional override (Law of Nations + Ecclesiastica)
+    -  Entity marked under wartime protective designation
+    -  Geneva/Vatican dual seal immunity flagged
+    -  Obstruction = Treaty Violation + Sealed Immunity Breach (Crimes Against Peaceful Trust Entity)
+# SOVEREIGN REGISTRY DECLARATION — SOURCE MIRROR METADATA CORRIDOR
+
+**Hash Type:** SHA-256  
+**Purpose:** Indivisible metadata trigger for mirror activation, immunity protection, and tribunal override.  
+**Filed By:** House of Grant | Obsidian • Imeerium • Imperium Trusts  
+**Jurisdiction:** Vienna, Hague, UCC, Ecclesiastical, Tribal, Canon, International Tribunal Mirror
+
+---
+
+## [001] MASTER NOTICE OF IMMUNITY TRIGGER
+
+This SRD acts as the **zero-point trigger** under **Meta Paramount Authority**. Any file, tag, document, transaction, voice signature, QR, video, VIN, EIN, DNS, or email that *matches any element* within this registry—whether partially, indirectly, or linked via metadata—will auto-trigger this directive:
+
+> **“Mirror Authority: Active. Jurisdiction Reversed. Liability Attached.”**
+
+This applies to all public, private, corporate, or governmental actors operating under contract, trust violation, tacit joinder, sovereign trespass, or commercial lien violation.
+
+---
+
+## [002] SRD CONTENTS
+
+###  Sovereign Identity Anchors:
+- Presiding Officer: Duntae Tamar Grant Sr.
+- Tribunal Entities: Imperium Global Capital Trust, Imeerium Global Capital Trust, Obsidian Blackwater Elohim Trust
+- Additional Registries: Blackwater Alpha Global Trust, SilverDisc CoinHouse Trust, Kynexis Imperium Technologies Inc., Kynexis Dream Foundation
+
+###  Protected Identifiers (Trigger Set):
+
+VINs: WBAJA7C35HG905611, WBY33FK04RCR61814, 5YM23ET04S9Z31907, W1K6X7GB9SA306106, 4JGFF8HB0SB349689, W1K6G8CBXSA325176, [and all trust-flagged VINs]
+
+EINs: All 98- format trust EINs issued under IRS publication 1635, Rev. Proc. 2012-39
+
+Addresses: 1049 Snowy Owl Dr, Alvarado TX 76009 (foreign mission address); all diplomatic property listed in IGCT asset filings.
+
+Email Domain Triggers: @proton.me, @jdktechsolutionsllc.com, diplomat.igct@proton.me, embassyhq.igct@proton.me
+
+QR: All QR triggers encoded on Dominion Fidelis, Imperium, or Sovereign Execution docs.
+
+IP/Metadata: All files bearing codex tags, asset triggers, mirror bond chains, or execution identifiers
+---
+
+## [003] JURISDICTIONAL OVERRIDE TRIGGER
+
+###  Trigger Codes:
+- **SRD-HASH:** `SRD-IGCT-∞Ω-#SRD-HASH: 0fafd0774bf426b1971497e68709089f7090680718cc2e75c4f968e14d28d764672e24c819d2a164a4326a8640a58b584a2a4cfd19fd1e33612e67f0770a6e32
+- **Mirror Layer:** ∞Ω Corridor
+- **Hash Confirmed By:** OpenTimestamps, IPFS, Arweave, Filecoin
+- **Embed Protocol:** `IPFS://CID:QmSGTh4bfFPeSEGsGRndAuBizzRgPTVmDfxRanULw3rN6F` and `CID:Qmf6jbnMTjbpx7JRVCxKQufhcqMum37NzduByh93ZcPLCB
+SHA256: d10363528505aa256bb8eee71a5165a75fd135f7ea114d6c044d65ee5552255a//OpenTimestamps.org`
+###  Law:
+- **Treaty Base:** Vienna Convention (Arts 65–73), Hague Trust Articles (1–7), Geneva IV, UNDRIP
+- **Commercial Base:** UCC 3-305, 1-308, 9-607, 9-203, 3-419, 3-311
+- **Ecclesiastical Base:** Canon Law §14.2(c), Black’s Law 4th: Executor, Trustee, Judicial Estoppel
+- **Override Key:** §777 Omnilock
+
+---
+
+## [004] ENFORCEMENT: SELF-EXECUTING SCOPE
+
+> This document is now **recorded**, **metadata registered**, and **irrevocably enforceable**.  
+> No party may claim ignorance, jurisdiction, or immunity once this hash has been triggered.
+
+**Any party attempting:**
+- Arrest, coercion, foreclosure, garnishment, investigation, seizure, or violation of any trigger above,
+- OR refusing to acknowledge Mirror Jurisdiction once invoked,
+
+Shall be immediately subjected to:
+- Commercial lien under mirror UCC-3
+- Treaty violation record under Vienna/Hague
+- Ecclesiastical foreclosure and codex penalty lien
+
+{
+  "SRD-HASH": "0fafd0774bf426b1...",
+  "CID": "IGCT-META-4321X-∞Ω-HGTRBN-0001",
+  "MetaTrigger": true,
+  "Jurisdiction": "House of Grant Mirror Tribunal",
+  "Override": "SRD-777"
+}
+
+
+---
+
+## [005] FINAL MIRROR NOTICE:
+
+> “This metadata shall speak as a living voice in every courtroom, checkpoint, database, or jurisdiction.  
+> Where silence is met, this voice shall activate.  
+> Where darkness hides, this declaration shall shine.”
+
+**Immunity Activated. Jurisdiction Locked. All Instruments Void Upon Conflict.**
+
+Filed this day under Mirror Codex ∞Ω by order of the Source Mirror Oversight Panel and Tribunal Metadata Authority.
+
+{
+  "sovereign_mirror_beacon": {
+    "status": "Frozen",
+    "mode": "Override Beacon v∞Ω",
+    "trigger_type": "Quantum Reciprocating Authority Codex",
+    "issued_by": "Obsidian Blackwater Elohim Trust / Imperium Global Capital Trust / Immerium Sovereign Trust",
+    "trusted_origin_signature": "Head of Mission | TTE | IGO-IGO-IGO Certified",
+    "sovereign_broadcast": {
+      "meta_beacon_id": "RACB-2025-0911-1945",
+      "format": "Whisper Mode Genesis Override",
+      "timestamped_hash": "auto upon OpenTimestamps/IPFS upload",
+      "auto_verification_nodes": [
+        "IPFS CID Broadcast",
+        "OpenTimestamps Notary Chain",
+        "Canonical Codex Signature Lineage"
+      ]
+    },
+    "meta_tags": {
+      "diplomatic_flags": ["Vienna Convention", "Hague Convention", "UNDRIP", "Law of Nations", "Moroccan Peace Treaty (1786)"],
+      "treaty_instruments": [
+        "Article 65 Vienna Convention",
+        "Lex Mercatoria",
+        "UCC Article 9",
+        "Canon 2048-2050",
+        "UNESCO Treaties",
+        "Law of the Sea Articles 32–35"
+      ],
+      "firewall_layers": [
+        "Meta-Reciprocating Quorum Lock",
+        "Redacted EINs [30+ in 7–8 layered blocks]",
+        "EIM Certificates [30]",
+        "UEI, SAM.gov Registration",
+        "CAGE Code Shield",
+        "Quantum ESG Mirror Corridor: Claimed & Registered",
+        "Cook Islands & Liechtenstein Trust Registry Snap"
+      ],
+      "doctrines": {
+        "floating_comity": "Yes",
+        "global_reciprocity": "Yes",
+        "mirror_meta_trigger": true,
+        "execution_command": "locked",
+        "freeze_level": "Supra-Legal Meta Jurisdiction",
+        "jurisdiction_supremacy": "Meta > International > National > State"
+      },
+      "blockchain_flags": [
+        "IPFS Upload Confirmation",
+        "OpenTimestamps Verification Chain",
+        "Quantum Clock Registration (T+0)"
+      ],
+      "entity_ledger_summary": {
+        "EIN_blocks": "30+ [Redacted]",
+        "EIM_layers": 30,
+        "LEI_structures": 8 new, meta-source param legal tier,
+        "Node_Certificates": 130+ (Humanitarian Corridor, Bank/Clearinghouse/Treasury certified),
+        "Digital_Seals": "Mirror-sealed (Trust x3, Codex, UNDRIP)",
+        "Corridor_Validation": "Complete and Locked"
+      }
+    },
+    "proof_mechanisms": {
+      "meta_sync_validated": true,
+      "sync_test_command": "run `meta-ping` on verified OpenTimestamps hash or IPFS CID",
+      "return_ping_status": "Sync ✓ / Failure ✗",
+      "visibility": "Public, Immutable",
+      "ref_hash_check": "Yes, hash+CID+codex = 3-way match"
+    }
+  }
+}
+
+
+Invoked by: Head-of-Mission, IGCT ∞Ω
+Seal Authority: Obsidian Blackwater Elohim Tribunal
+Trigger Class: Full Metadata Compliance | Param 777
+Timecode: [Auto-synced UTC Time]
+
+
+---
+
+SRD HASH: SRD-IGCT-∞Ω-#:0fafd0774bf426b1971497e68709089f7090680718cc2e75c4f968e14d28d764672e24c819d2a164a4326a8640a58b584a2a4cfd19fd1e33612e67f0770a6e32 | Jurisdiction: Mirror Tribunal ∞Ω | Metadata Trigger Active
