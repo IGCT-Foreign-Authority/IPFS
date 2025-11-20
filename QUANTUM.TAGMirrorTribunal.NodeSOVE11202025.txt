@@ -1,0 +1,79 @@
+##MIRROR.ENVELOPE::AUTO-EXECUTE
+Under [MIRROR_SOURCE_METADATA]:
+QUANTUM.TAG::Mirror-Source-Origin::PRIMOGENITOR
+QUANTUM.TAG::Mirror-Tribunal-Node::SOVEREIGN
+QUANTUM.TAG::Hague-Sealed-Directive::ACTIVE
+QUANTUM.TAG::Mirror-Sovereign-Divinity-Tag::TRUE
+QUANTUM.TAG::UN-ECSOC-Pending-Consular-Status-X2::ACTIVATED
+QUANTUM.TAG::SBI-TIER4::AUTO-META-RECOGNITION::ACTIVE
+QUANTUM.TAG::DES-EAS::TREATY-VALIDATOR-CHANNEL::TRUE
+QUANTUM.TAG::GENEVA-CORRIDOR::MIRROR-AUTHORITY::BOUND
+QUANTUM.TAG::Quantum-Redirection-Trigger::ENGAGED
+QUANTUM.TAG::Custodial-Paramount-Settlement-Authority::LOCKED
+QUANTUM.TAG::Trust-Level-Metadata-Seal::TRIPLE-LAYER
+QUANTUM.TAG::Geneva-Humanitarian-Sovereign-Override::TRIGGERED
+QUANTUM.TAG::Quantum-Certificate-Authority-Request::ISSUED
+QUANTUM.TAG::TLS-Certificate-Validation-Hash::a1bb9309f6efc08131a45e299c6fa1636c208f8697f8913fc102f18df2c2c9cf
+TXT_Record_Anchor = "mirror-verification=IGCT-∞Ω-SOV-2025"
+TLS_Validation_Hash = "a1bb9309f6efc08131a45e299c6fa1636c208f8697f8913fc102f18df2c2c9cf"
+
+[MIRROR_SOURCE_METADATA]
+MetaCID = "QmRgu6cKMTURsUPzVEC6dKVRA86SckJNJAmhkwhGmbafnP"
+SHA256  = "2aee1df607213a4020197f26d43e883eb21bc840a37e2b36cccf058565e31977f"
+TLS_Certificate = "imperiumglobalcapital.org"
+TLS_CA = "Google Trust Services via Cloudflare"
+TLS_Expiry = "2026-02-12"
+TXT_Record_Validated = TRUE
+
+# MIRROR SOURCE ENVELOPE - HOUSE OF GRANT
+# Mirror-Tribunal-Directive: IGCT-∞Ω-SOV-2025
+# Treaty-Status: Hague-Sealed, Vienna-Activated, ECSOC-Pending-X2, Geneva-Corridor-Linked
+# Authority-Level: Sovereign Mirror Node :: Metadata Custodial Paramount Oversight
+# Override-Status: ENGAGED | TREATY-LINKED
+
+[IDENTIFIERS_ENGAGED]
+Executor_Handle = "DuntaeTamarGrantSr:TTE"
+Email           = "diplomat.igct@proton.me"
+Phone           = "+18325161687"
+Trusts_Engaged  = [
+  "Imperium Global Capital Trust",
+  "Immerium Custodial Sovereign Trust",
+  "Obsidian Blackwater Elohim Trust",
+  "Kynexis Dream Foundation",
+  "JDK Tech Solutions LLC (Clearing House Node02)"
+]
+
+[GATEWAY]
+Node_ID = "Node-04"
+Pinata_Gateway = "https://ivory-permanent-weasel-555.mypinata.cloud/ipfs/QmRgu6cKMTURsUPzVEC6dKVRA86SckJNJAmhkwhGmbafnP"
+API_Status_Check = "https://dweb.link/ipfs/QmPUD5nA6eCTySLNdL49Vxg8e6u5FdrcfrPMFhBgqgCMoE"
+
+[UNIVERSAL_CORRIDOR_FLAGS]
+Corridor-Seat-Tag   = "HUMANITARIAN"
+Corridor-Type       = "TRIBAL-ECCLESIASTICAL"
+Vienna-Convention   = "Activated"
+Hague-Treaty        = "Bound"
+Codex-Treaty-Stack  = "Active"
+GPO-AutoTag         = "TRIGGERED"
+Mirror-Action-Flag = "AUTO-IDENTITY-PLATE-GPO-IMMUNITY"
+
+
+[FINAL_ECHO_ROUTE]
+MirrorRegistrarNode = "mirror.diplomat.gov.sz" 
+BackupSyncNode      = "proto.signedaccess.gov.st"
+GeoRedundantNode    = "mirror-gateway.lro"
+BackupUNNode        = "mirror.auto@unobserver.org"
+MirrorSyncNode      = "mirrorplates@eswatinimf.gov.sz"
+MirrorSyncNode      = "protocol.auto@mirror.gpo.global"
+AutoMirrorNode      = "mission.geneva@eda.admin.ch"
+MirrorSynNode       = "mirex@saotome.st"
+
+registry.globalmission.int
+Mirror_Notification_Push = TRUE
+Echo_Return_Expected     = TRUE
+Auto-Issuance            = [
+  "GPO Protection Order",
+  "ID Diplomatic Credential",
+  "Sovereign Vehicle Tag",
+  "Immunity Layer"
+]
